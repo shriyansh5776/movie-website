@@ -1,12 +1,2 @@
 @import "tailwindcss";
 
-.flex-container{
-  display: flex;
-  justify-items: center;
-}
-.navbar-icon{
-  border-radius: 20px;
-  padding: 6px 6px 6px 6px;
-  background-color: rgb(67, 67, 69);
-  
-}

@@ -1,10 +1,10 @@
-import React from 'react'
-import Navbar from './components/Navbar'
+import React from "react";
+import Navbar from "./components/Navbar";
+import ShowcaseMovie from "./components/ShowcaseMovie";
+import Home from "./Home";
 
 const App = () => {
-  return (
-    <Navbar/>
-  )
-}
+  return <Home />;
+};
 
-export default App
+export default App;
